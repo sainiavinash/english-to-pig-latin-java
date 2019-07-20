@@ -1,2 +1,2 @@
-# english-to-pig-latin-java
+# Translate english to pig latin
 English to pig Latin translator in Java
